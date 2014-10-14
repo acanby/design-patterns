@@ -1,4 +1,5 @@
 rootProject.name = 'design-patterns'
 
-include 'iterator'
+include '01-observer'
+include '09-iterator'
 

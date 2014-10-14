@@ -1,3 +1,5 @@
 *.iml
 .idea/*
-iterator/build/*
+build/*
+02-observer/build/*
+09-iterator/build/*
