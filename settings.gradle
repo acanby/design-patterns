@@ -2,5 +2,6 @@ rootProject.name = 'design-patterns'
 
 include '02-observer'
 include '03-decorator'
+include '04-factory'
 include '09-iterator'
 
