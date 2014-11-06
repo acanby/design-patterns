@@ -4,5 +4,6 @@ include '02-observer'
 include '03-decorator'
 include '04-factory'
 include '05-singleton'
+include '06-command'
 include '09-iterator'
 

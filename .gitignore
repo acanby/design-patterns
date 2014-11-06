@@ -12,4 +12,5 @@ build/*
 03-decorator/build/*
 04-factory/build/*
 05-singleton/build/*
+06-command/build/*
 09-iterator/build/*
